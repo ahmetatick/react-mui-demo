@@ -66,7 +66,7 @@ const MuiTextField = () => {
 
         <TextField
           label="weight"
-          color="success"
+          color="secondary"
           inputProps={{
             endAdornment: <InputAdornment position="end">kg</InputAdornment>,
           }}
